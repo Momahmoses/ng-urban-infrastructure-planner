@@ -1,6 +1,6 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Momahmoses%2Fng-urban-infrastructure-planner&branch=main&mainModule=app.py)
 
-# 🏙 Nigeria Smart Urban Infrastructure Planner
+# Nigeria Smart Urban Infrastructure Planner
 
 Data-driven urban planning platform for Nigeria's 15 major cities, mapping informal settlements, scoring infrastructure gaps, and prioritizing investment projects using **GIS**, **PySpark K-Means**, **Azure Digital Twins**, and **Streamlit**.
 
@@ -30,8 +30,8 @@ streamlit run app.py
 - Project ROI prioritization table
 
 ## Data Sources (Production)
-- **NPC** — National Population Commission settlement data
-- **MHUD** — Ministry of Housing & Urban Development
-- **World Bank City Resilience** — Urban vulnerability indicators
-- **OpenStreetMap** — Building footprints, road network
-- **NLMA** — Nigerian Land Mass Administration
+- **NPC**, National Population Commission settlement data
+- **MHUD**, Ministry of Housing & Urban Development
+- **World Bank City Resilience**, Urban vulnerability indicators
+- **OpenStreetMap**, Building footprints, road network
+- **NLMA**, Nigerian Land Mass Administration
